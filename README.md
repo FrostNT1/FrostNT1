@@ -1,7 +1,10 @@
 # Hi there 👋 and welcome to my Github profile.
 
+<p align='center'>
+  <img src='myAvatar.svg' style="margin:auto;" width="300px">
+</p>
+
 ## Who am I?
-Hi, I am Shivam Tyagi, a second-year student in NSUT Delhi.<br>
 I am someone with natural curiosity and a drive to help those around me.<br>
 I want to help the world by utilising my skills and push the limits of what is currently possible.
 
