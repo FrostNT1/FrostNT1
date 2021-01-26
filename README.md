@@ -5,8 +5,7 @@
 </p>
 
 ## Who am I?
-I am someone with natural curiosity and a drive to help those around me.<br>
-I want to help the world by utilising my skills and push the limits of what is currently possible.
+Someone with curiosity and a desire to contribute to the world through skills and push personal limits.<br>
 
 #
 
