@@ -20,7 +20,7 @@ I'm Shivam Tyagi, a Data Scientist and Master's student at Vanderbilt University
 Data science gives me the opportunity to make meaningful, data-driven decisions, potentially building wealth without reliance on the traditional paycheck system. I am fascinated by how data science can contribute to venture capital and private equity, and I aspire to make a lasting impact in this space.
 
 ## 📈 GitHub Stats
-![FrostNT1's github status](https://github-readme-stats.vercel.app/api?username=FrostNT1&show_icons=true&count_private=true&hide=stars,issues)
+<!--![FrostNT1's github status](https://github-readme-stats.vercel.app/api?username=FrostNT1&show_icons=true&count_private=true&hide=stars,issues)! -->
 
 ![FrostNT1's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostNT1)
 
