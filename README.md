@@ -2,6 +2,8 @@
 
 # Hi, I'm Shivam Tyagi 👋
 
+<img src="Goofy-GitHub-Avatar.png" alt="Not A Goofy Image" width="400">
+
 ### Applied Data Scientist · Forecasting & Decision Systems · Production ML
 
 **M.S. in Data Science, Vanderbilt University**
