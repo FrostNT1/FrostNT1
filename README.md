@@ -1,27 +1,81 @@
-# Hi there 👋 Welcome to my GitHub!
+<div align="center">
+
+# Hi, I'm Shivam Tyagi 👋
+
+### Applied Data Scientist · Forecasting & Decision Systems · Production ML
+
+**M.S. in Data Science, Vanderbilt University**
+Published researcher with four peer-reviewed papers and 30+ citations
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shivam-tyagi-8b7b41186/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NfktfdwAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat\&logo=medium\&logoColor=white)](https://medium.com/@st.shivamtyagi.01)
+
+</div>
+
+---
 
 ## About Me
-I'm Shivam Tyagi, a Data Scientist and Master's student at Vanderbilt University. My work bridges data science and finance, and I'm on a mission to transform data into actionable insights, enhance decision-making, and push the boundaries of innovation in tech and finance.
 
-## 🌐 Current Focus
-🔭 **Projects**:  
-- Exploring advanced data science applications in finance, such as asset pricing models and trading algorithms.
-- Investigating world knowledge representation in large language models, focusing on MLP layers and fine-tuning techniques (PEFT with LoRA).
+I build data and machine-learning systems that help people make better operational decisions under uncertainty.
 
-🌱 **Learning**:  
-- Enhancing my understanding of multimodal models and deep learning architectures, especially transformer-based models, as I explore new areas like Rotary Positional Encoding and light curve data analysis.
+My experience spans demand forecasting, natural-language analytics, computer vision, data pipelines, and applied ML research. I am particularly interested in the complete chain from **problem → prediction → decision rule → action → outcome**: not only whether a model is accurate, but whether it changes the right decision and produces measurable value.
 
-## 💬 Ask Me About
-- **Data Science in Finance**: Whether it's quantitative modeling, asset pricing, or algorithmic trading, I’m always up for discussing impactful applications.
-- **Technical Foundations**: I enjoy talking about linear transformations, vector algebra, probability theory, and advanced statistics.
-- **Machine Learning & AI**: Let’s chat about the technical aspects of machine learning models, especially those involving transformers and representation learning.
+I am currently developing deeper expertise in **forecasting and decision systems**, including cost-aware learning, optimization, uncertainty, and the operation of ML systems in real environments.
 
-## 🔍 What Drives Me
-Data science gives me the opportunity to make meaningful, data-driven decisions, potentially building wealth without reliance on the traditional paycheck system. I am fascinated by how data science can contribute to venture capital and private equity, and I aspire to make a lasting impact in this space.
+## Selected Professional Work
 
-## 📈 GitHub Stats
-<!--![FrostNT1's github status](https://github-readme-stats.vercel.app/api?username=FrostNT1&show_icons=true&count_private=true&hide=stars,issues)! -->
+* **FarMart — Production forecasting and NLP:** Owned a production demand-forecasting workflow for maize and co-owned an NER system, including deployment, monitoring, retraining, dashboards, and stakeholder adoption.
 
-![FrostNT1's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostNT1)
+* **Zignyl — Natural-language analytics:** Built the company’s first AI query engine for natural-language analytics across multi-store operations.
 
-<!-- Connect with me on LinkedIn or follow my journey here on GitHub as I build projects, explore data-driven solutions, and share my learnings along the way. Stay tuned for articles and tutorials! -->
+* **Miso Robotics — Forecasting for autonomous operations:** During my data science internship, developed and evaluated a demand-forecasting pipeline for autonomous restaurant operations across more than 100 locations. Prepared the pipeline, environment, and technical documentation for engineering productionization.
+
+* **Medical-device computer vision:** Led a contract ML team building a CPU-deployable ONNX computer-vision service for wearable-device placement guidance.
+
+* **[Negotiation and Team Resources](https://ainegotiation-ntr.com/alumni/) — Applied AI research:** Contributed as Lead AI Data Science Researcher and Full-Stack Developer to AI-assisted negotiation research and product development.
+
+## Research
+
+I have authored or co-authored four peer-reviewed publications spanning machine learning, applied AI, photovoltaic-system analysis, and technology adoption.
+
+* **30+ Google Scholar citations**
+* **Two first-author publications**
+* Research experience across forecasting, ensemble learning, fault detection, and applied analytics
+
+[View my publications on Google Scholar →](https://scholar.google.com/citations?hl=en&user=NfktfdwAAAAJ)
+
+## Selected Open Work
+
+### [QuantFolio Engine](https://github.com/FrostNT1/quantfolio-engine)
+
+A research-oriented portfolio construction and evaluation framework for studying how investment strategies behave under uncertainty. The project includes factor and regime analysis, Black–Litterman allocation, Monte Carlo simulation, walk-forward backtesting, transaction costs, benchmarks, and portfolio-risk evaluation.
+
+### [TabPFN Stock Prediction](https://github.com/FrostNT1/TabPFN-Stock-Prediction)
+
+An exploration of transformer-based tabular learning for financial prediction, including feature engineering, model evaluation, and comparison with conventional approaches.
+
+## Writing
+
+I write about forecasting, decision-making, applied machine learning, finance, and the changing nature of technical work.
+
+* [Forecasting Isn’t About Being Right. It’s About Being Useful.](https://medium.com/@st.shivamtyagi.01/forecasting-isnt-about-being-right-it-s-about-being-useful-a91be88ca7e1)
+* [QuantFolio: Designing Portfolios That Survive Uncertainty](https://medium.com/@st.shivamtyagi.01/quantfolio-designing-portfolios-that-survive-uncertainty-c5c00adcf029)
+* [The Data Science Blueprint](https://medium.com/@st.shivamtyagi.01/the-data-science-blueprint-d5be40aaf860)
+* [More writing on Medium →](https://medium.com/@st.shivamtyagi.01)
+
+## Technical Toolkit
+
+**Languages and analysis:** Python, SQL, R, pandas, NumPy
+**Machine learning:** scikit-learn, PyTorch, LightGBM, XGBoost, Hugging Face
+**Optimization and deployment:** CVXPY, ONNX, AWS, Azure, Linux
+**Data systems:** PostgreSQL, MongoDB, SSIS, Metabase
+**Workflow:** Git, Jira, testing, reproducible experimentation, technical documentation
+
+---
+
+<div align="center">
+
+### Building systems that connect predictions to decisions—and decisions to measurable outcomes.
+
+</div>
